@@ -1,0 +1,1 @@
+mi_cov_auto.do is a library of stata programmes used in the simulation study. These programmes are called within other do files 
